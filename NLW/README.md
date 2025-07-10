@@ -16,7 +16,7 @@
 - Ia utilizada: Gemini 2.5 Flash
 
 # Aprendizados
--Consumo de api via fetch
--Eventos Assincronos e Await
--Introdução a Arrow Functions
--Tratamento de Erros
+    -Consumo de api via fetch
+    -Eventos Assincronos e Await
+    -Introdução a Arrow Functions
+    -Tratamento de Erros
